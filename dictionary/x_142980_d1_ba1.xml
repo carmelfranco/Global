@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="A1" max_length="40" name="x_142980_d1_ba1" type="collection">
+        <element attributes="import_attribute_name=Department,edge_encryption_enabled=true" label="Department" max_length="40" name="u_department" type="string"/>
+        <element attributes="import_attribute_name=Environment,edge_encryption_enabled=true" label="Environment" max_length="40" name="u_environment" type="string"/>
+        <element attributes="import_attribute_name=Firmware Level,edge_encryption_enabled=true" label="Firmware Level" max_length="43" name="u_firmware_level" type="string"/>
+        <element attributes="import_attribute_name=Fully Qualified Name,edge_encryption_enabled=true" label="Fully Qualified Name" max_length="40" name="u_fully_qualified_name" type="string"/>
+        <element attributes="import_attribute_name=IP Address,edge_encryption_enabled=true" label="IP Address" max_length="40" name="u_ip_address" type="string"/>
+        <element attributes="import_attribute_name=Location,edge_encryption_enabled=true" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="import_attribute_name=Model,edge_encryption_enabled=true" label="Model" max_length="40" name="u_model" type="string"/>
+        <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=Network Addresses,edge_encryption_enabled=true" label="Network Addresses" max_length="111" name="u_network_addresses" type="string"/>
+        <element attributes="import_attribute_name=Owner of Technology,edge_encryption_enabled=true" label="Owner of Technology" max_length="40" name="u_owner_of_technology" type="string"/>
+        <element attributes="import_attribute_name=Owner Responsible for Patching,edge_encryption_enabled=true" label="Owner Responsible for Patching" max_length="40" name="u_owner_respon_e_for_patching" type="string"/>
+        <element attributes="import_attribute_name=Portable and/or Personal or Neither,edge_encryption_enabled=true" label="Portable and/or Personal or Neither" max_length="40" name="u_portable_and_nal_or_neither" type="string"/>
+        <element attributes="import_attribute_name=Serial Number,edge_encryption_enabled=true" label="Serial Number" max_length="40" name="u_serial_number" type="string"/>
+        <element attributes="import_attribute_name=Type,edge_encryption_enabled=true" label="Type" max_length="40" name="u_type" type="string"/>
+    </element>
+</database>
